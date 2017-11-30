@@ -1,10 +1,15 @@
-//
-//  AppDelegate.swift
-//  NavigationController
-//
-//  Created by Robert Argume on 2017-11-29.
-//  Copyright © 2017 Robert Argume. All rights reserved.
-//
+/*
+ * AppDelegate.swift
+ * Project: Lab 3 - Navigation Views
+ * Students:
+ *              Ling Bao        300901785
+ *              Robert Argume   300949529
+ * Date: Nov 29, 2017
+ * Description: Hierarchical Navigation views using tables to show System Fonts.
+ *              It shows samples with different sizes for a selected font.
+ *              It also allows to select some fonts as Favourite Fonts.
+ * Version: 0.1
+ */
 
 import UIKit
 
